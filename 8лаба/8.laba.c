@@ -4,9 +4,9 @@
 #include <string.h>
 #include <Windows.h>
 
-#define MAX_SIZE 20
+#define MAX_SIZE 20 // для лабы правки
 #define MAX_LEN  256
-
+/// вторые правки
 
 //  ЛР 8.1  —  fscanf / fprintf  (числовая информация)
 
